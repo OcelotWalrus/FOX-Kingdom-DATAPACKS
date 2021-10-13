@@ -1,0 +1,9 @@
+{
+  "group": "fight",
+  "type": "minecraft:stonecutting",
+  "count": 7,
+  "ingredient": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "result": "minecraft:iron_ingot"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "fight",
+  "type": "minecraft:stonecutting",
+  "count": 6,
+  "ingredient": {
+    "item": "minecraft:iron_leggings"
+  },
+  "result": "minecraft:iron_ingot"
+}
