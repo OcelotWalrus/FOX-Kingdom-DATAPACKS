@@ -1,0 +1,9 @@
+{
+  "group": "fight",
+  "type": "minecraft:stonecutting",
+  "count": 7,
+  "ingredient": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "result": "minecraft:netherite_scrap"
+}

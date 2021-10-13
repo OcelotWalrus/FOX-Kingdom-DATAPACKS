@@ -1,0 +1,9 @@
+{
+  "group": "fight",
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "item": "minecraft:netherite_helmet"
+  },
+  "result": "minecraft:netherite_scrap"
+}
