@@ -1,0 +1,34 @@
+{
+  "group": "fight",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "02 ",
+    "345",
+    "68 "
+  ],
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    },
+  "result": {
+    "item": "minecraft:iron_horse_armor",
+    "count": 1
+  }
+}

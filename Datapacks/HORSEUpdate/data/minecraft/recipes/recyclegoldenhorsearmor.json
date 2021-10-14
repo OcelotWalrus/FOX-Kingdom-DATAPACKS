@@ -1,0 +1,9 @@
+{ 
+  "group": "recycle",
+  "type": "minecraft:stonecutting",
+  "count": 7,
+  "ingredient": { 
+    "item": "minecraft:golden_horse_armor"
+    },
+  "result": "gold_ingot"
+}
