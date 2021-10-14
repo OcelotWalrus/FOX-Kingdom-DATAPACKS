@@ -18,6 +18,7 @@ You can see the list of datapacks mades by me here:
   -  ADVANCEDArmors & Tools (add smithings craft for all tools and armors)
   -  FISHINGTreasures + (change the treasure loot table see list of items you can get with the loot table here: https://www.planetminecraft.com/data-pack/fishing-treasur/
   -  MISCRecipes (add miscs recipes like the change of bucket recipe and shield but also adding: beetroote smelting for get sugar, the nametag recipe, the saddle recipe by smithing and crafting table).
+  -  EASIERNetherite++ (add stonecutting recipe with crying_obsidian to make with it any netherite item)
 
 # HELPFUL PLACE
 
