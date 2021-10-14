@@ -17,6 +17,7 @@ You can see the list of datapacks mades by me here:
   -  HORSESpacial Datapack (add all horse armors recipes for craft it, add also stonecutting recipes for recycle horse armors and the craft of horse armors by smithing recipes)
   -  ADVANCEDArmors & Tools (add smithings craft for all tools and armors)
   -  FISHINGTreasures + (change the treasure loot table see list of items you can get with the loot table here: https://www.planetminecraft.com/data-pack/fishing-treasur/
+  -  MISCRecipes (add miscs recipes like the change of bucket recipe and shield but also adding: beetroote smelting for get sugar, the nametag recipe, the saddle recipe by smithing and crafting table).
 
 # HELPFUL PLACE
 
