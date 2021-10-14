@@ -1,0 +1,9 @@
+{
+  "group": "tools",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:wooden_shovel"
+  },
+  "result": "minecraft:oak_planks"
+}

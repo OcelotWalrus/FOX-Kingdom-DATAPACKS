@@ -1,0 +1,9 @@
+{
+  "group": "tools",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:golden_hoe"
+  },
+  "result": "minecraft:gold_ingot"
+}

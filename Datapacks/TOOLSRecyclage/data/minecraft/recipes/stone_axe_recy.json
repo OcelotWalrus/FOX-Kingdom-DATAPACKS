@@ -1,0 +1,9 @@
+{
+  "group": "tools",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:stone_axe"
+  },
+  "result": "minecraft:cobblestone"
+}

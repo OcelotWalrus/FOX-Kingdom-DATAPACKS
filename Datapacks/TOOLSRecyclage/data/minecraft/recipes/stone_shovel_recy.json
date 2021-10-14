@@ -1,0 +1,9 @@
+{
+  "group": "tools",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:stone_shovel"
+  },
+  "result": "minecraft:cobblestone"
+}
