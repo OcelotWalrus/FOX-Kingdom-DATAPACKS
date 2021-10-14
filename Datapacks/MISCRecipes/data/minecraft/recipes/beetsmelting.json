@@ -1,0 +1,12 @@
+{
+  "group": "food",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:beetroot"
+  },
+  "result": {
+    "item": "minecraft:sugar"
+  }
+}

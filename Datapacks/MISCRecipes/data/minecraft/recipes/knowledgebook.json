@@ -1,0 +1,42 @@
+{
+  "group": "misc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012 ",
+    "345",
+    "678 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:paper"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "3": {
+      "item": "minecraft:bookshelf"
+    },
+    "4": {
+      "item": "minecraft:grass_block"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    },
+    "8": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "count": 1
+  }
+}
